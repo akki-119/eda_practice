@@ -1,2 +1,2 @@
-# eda_practice
+# EDA_practice
 ESPN Cricketers' Data
